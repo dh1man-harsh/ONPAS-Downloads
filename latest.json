@@ -1,6 +1,6 @@
 {
-  "version": "0.24.0-alpha",
-  "windows": "https://github.com/dh1man-harsh/ONPAS-Downloads/releases/download/v0.24.0-alpha/ONPASSetup.exe",
-  "mac_intel": "https://github.com/dh1man-harsh/ONPAS-Downloads/releases/download/v0.24.0-alpha/ONPAS-macOS-Intel.dmg",
-  "mac_arm": "https://github.com/dh1man-harsh/ONPAS-Downloads/releases/download/v0.24.0-alpha/ONPAS-macOS-AppleSilicon.dmg"
+  "version": "0.25.0-alpha",
+  "windows": "https://github.com/dh1man-harsh/ONPAS-Downloads/releases/download/v0.25.0-alpha/ONPASSetup.exe",
+  "mac_intel": "https://github.com/dh1man-harsh/ONPAS-Downloads/releases/download/v0.25.0-alpha/ONPAS-macOS-Intel.dmg",
+  "mac_arm": "https://github.com/dh1man-harsh/ONPAS-Downloads/releases/download/v0.25.0-alpha/ONPAS-macOS-AppleSilicon.dmg"
 }
